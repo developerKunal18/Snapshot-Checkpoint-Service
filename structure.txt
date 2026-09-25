@@ -1,0 +1,7 @@
+snapshot-checkpoint-service/
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── app.py
+└── tests/
+    └── test_snapshot.py
